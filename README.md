@@ -1,5 +1,5 @@
 # ai_hedge_fund
-About: Shell for investment fund. 
+About: Shell. 
 
 ## Strategy
 * Long-short equity (X%)
@@ -21,5 +21,7 @@ About: Shell for investment fund.
 ## Updates
 
 9/5/2017: .
+
 9/7/2017: ..
+
 9/9/2017: ...
