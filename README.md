@@ -17,3 +17,9 @@ About: Shell for investment fund.
   - credit
   - FX
  
+
+## Updates
+
+9/5/2017: .
+9/7/2017: ..
+9/9/2017: ...
